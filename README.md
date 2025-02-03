@@ -4,6 +4,7 @@
 - **DSA(with java)**
 - **Node js**
 - **Backend Development**
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="loga" />
 - 📫 How to reach me
 - (LeetCode)[https://leetcode.com/u/tinku999/]
 - (Linkedln)[https://www.linkedin.com/in/tinku-kumar-59a7b9251/]
