@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Tinku Kumar**
-- 👀 I’m interested in **Fronted Developer**
+- 👀 I’m interested in **Backend Developer**
 - 🌱 I’m currently learning
 - **DSA(with java)**
 - **Node js**
@@ -7,8 +7,11 @@
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="loga" />
 - 📫 How to reach me
 - (LeetCode)[https://leetcode.com/u/tinku999/]
+ 
 - (Linkedln)[https://www.linkedin.com/in/tinku-kumar-59a7b9251/]
+  
 - (Instagram)[https://www.instagram.com/___tinkukumar/]
+  
 - ⚡ Fun fact:
 - *Books Read*
 - *Animal Love*
